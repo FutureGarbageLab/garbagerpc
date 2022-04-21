@@ -1,3 +1,1 @@
-# GarbageRPC
-Welcome to GarbageRPC!
-
+# garbagerpc
